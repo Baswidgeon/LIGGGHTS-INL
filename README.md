@@ -1,6 +1,7 @@
 # LIGGGHTS-INL
 
 <img src="figs/fig_liggghts_inl_banner.png">
+<a href=doc/manual.html>test</a>
 
 **LIGGGHTS-INL** is a capability-extended adaptation of the [LIGGGHTS](https://www.cfdem.com/media/DEM/docu/Manual.html) Open Source Discrete Element Method (DEM) Particle Simulation Software based on LIGGGHTS release version 4.0.0.
 
